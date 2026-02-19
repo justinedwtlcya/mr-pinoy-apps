@@ -12,9 +12,10 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
-    },
+  "ios": {
+  "supportsTablet": true,
+  "bundleIdentifier": "com.mrpinoyapps.portal"
+},
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
